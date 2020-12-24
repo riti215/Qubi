@@ -1,0 +1,113 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: "Frank Ruhl Libre", serif;
+}
+.bg-image {
+  background: url("../image/pic.jpeg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+.caption {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.9px;
+}
+.nav-sec {
+  position: absolute;
+  top: 60px;
+  width: 100%;
+}
+.logo3 {
+  width: 100px;
+}
+.icon-bar {
+  height: 8px;
+  width: 40px;
+  background-color: #fc7e41;
+  margin: 5px 0px;
+}
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-collapse {
+  border-top: 0px;
+  /*webkit-box-shadow: none;*/
+  box-shadow: none;
+}
+.navbar-default {
+  background-color: #281b1582;
+
+  border-color: #281b1582;
+}
+.navbar-default .navbar-nav li a {
+  font-size: 23px;
+  color: #fbf7f6;
+}
+.navbar-default .navbar-nav li a:hover {
+  font-size: 23px;
+  color: #fc7e41;
+}
+.btn-exp {
+  border: 3px solid #bbaea8;
+  border-radius: 0px;
+  color: white;
+  font-size: 22px;
+  padding: 0px 45px;
+}
+
+.aboutus {
+  margin-top: 30px;
+  text-align: left;
+  color: #fafafa;
+  padding: 30px;
+}
+
+.about-title {
+  margin-top: revert;
+  padding-bottom: 6px;
+  border-bottom-style: solid;
+  border-bottom-width: 3.1px;
+  width: fit-content;
+  display: inline;
+}
+.abouttitle {
+  display: inline;
+}
+.heading {
+  text-align: initial;
+  padding: 30px;
+  color: white;
+}
+
+.text-data {
+  text-align: left;
+  padding-left: 30px;
+  font-weight: 700;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  margin-top: 17px;
+}
+
+.row-class {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.activeClassName {
+  color: tomato;
+}

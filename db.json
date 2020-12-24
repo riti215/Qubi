@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "user": {
+        "selectedOption": null,
+        "selection": 2
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "selectedOption": {
+          "value": "strawberry",
+          "label": "Strawberry"
+        },
+        "selection": 2
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "selectedOption": {
+          "value": "strawberry",
+          "label": "Strawberry"
+        },
+        "selection": 2
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "selectedOption": {
+          "value": "store2",
+          "label": "store2"
+        },
+        "selection": 2
+      },
+      "id": 5
+    },
+    {
+      "user": {
+        "selectedOption": {
+          "value": "store",
+          "label": "store"
+        },
+        "selection": 1
+      },
+      "id": 6
+    },
+    {
+      "user": {
+        "selectedOption": null,
+        "selection": 1
+      },
+      "id": 7
+    }
+  ]
+}

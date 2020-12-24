@@ -1,0 +1,59 @@
+.Bar {
+    background-color: #3a3939;
+  }
+  
+  .Bar h1{
+    padding-top: 4%;
+    padding-bottom: 5%;
+    height: 130px;
+    padding-left: 5%;
+    align-items: center;
+    background-color: #ffffff;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+  
+  .img-fluid {
+    padding: 2% 5%;
+    margin-top: 1%;
+    margin-left: 0px;
+    height: 520px;
+    width: auto;
+  }
+  
+  .card {
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #4d4c4c;
+    box-shadow: 15px #000;
+    margin: 1%;
+    margin-left: 3%;
+  }
+  
+  .card-title {
+    color: #b6962d;
+  }
+  
+  hr {
+    border-width: 5px;
+    border-radius: 10px;
+    margin-right: 80%;
+    border-color: #b6962d;
+  }
+  
+  tr {
+    height: 50px;
+  }
+  
+  table {
+    margin-top: 50px;
+  }
+  
+  .btn {
+    margin-top: 40px;
+  }
+  
+  .btn h3 {
+    color: #b6962d;
+  }

@@ -1,0 +1,271 @@
+@import url("https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@1,700&display=swap");
+
+@media (max-width: 480px) {
+  .whole {
+    /* margin-left: 33%;
+    margin-right: 33%;
+    padding-bottom: 3%; */
+    display: flex;
+    /* place-items: center; */
+    /* margin-top: 100px; */
+  }
+
+  .qubi {
+    background-color: rgb(193, 154, 107);
+    /* margin-left: 50%; */
+    /* margin-left: 30%; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+    /* border-radius: 35px; */
+    /* margin: 30px;
+    background-color: #ffffff; */
+    border: 1px solid black;
+    opacity: 0.8;
+    font-size: x-large;
+  }
+
+  .header {
+    text-align: center;
+    font-family: "Charm", cursive;
+  }
+
+  .common {
+    padding-left: 5px;
+  }
+
+  .label {
+    font-family: "Rubik", sans-serif;
+    color: white;
+    padding: 10px;
+    padding-right: 10px;
+  }
+
+  .submit {
+    font-family: "Balsamiq Sans", cursive;
+    margin-left: 35%;
+    color: goldenrod;
+    background-color: #7a4f38;
+    height: 40px;
+    width: 120px;
+    font-size: x-large;
+    opacity: 1;
+  }
+
+  .input {
+    font-family: "Kalam", cursive;
+    margin-left: 5px;
+    /* position: absolute; */
+    height: 20px;
+    width: 35%;
+  }
+
+  .error {
+    color: red;
+    font-size: small;
+    text-align: center;
+  }
+  hr {
+    height: 2px;
+    background-color: rgb(58, 48, 2);
+  }
+}
+@media (min-width: 481px) and (max-width: 1024px) {
+  .whole {
+    /* margin-left: 33%;
+    margin-right: 33%;
+    padding-bottom: 3%; */
+    display: flex;
+    /* place-items: center; */
+    /* margin-top: 100px; */
+  }
+
+  .qubi {
+    background-color: rgb(193, 154, 107);
+    /* margin-left: 50%; */
+    /* margin-left: 30%; */
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    margin: auto;
+    margin-top: 150px;
+    /* border-radius: 35px; */
+    /* margin: 30px;
+    background-color: #ffffff; */
+    border: 1px solid black;
+    opacity: 0.8;
+    font-size: x-large;
+  }
+
+  .header {
+    text-align: center;
+    font-family: "Charm", cursive;
+  }
+
+  .common {
+    padding-bottom: 5%;
+    padding-left: 5px;
+  }
+
+  .label {
+    font-family: "Rubik", sans-serif;
+    color: white;
+    padding: 10px;
+    padding-right: 10px;
+  }
+
+  .submit {
+    font-family: "Balsamiq Sans", cursive;
+    margin-left: 35%;
+    margin-top: 10%;
+    color: goldenrod;
+    background-color: #7a4f38;
+    height: 40px;
+    width: 120px;
+    font-size: x-large;
+    opacity: 1;
+  }
+
+  .input {
+    font-family: "Kalam", cursive;
+    margin-left: 5px;
+    /* position: absolute; */
+    height: 20px;
+    width: 35%;
+  }
+
+  .error {
+    color: red;
+    font-size: small;
+    text-align: center;
+  }
+  hr {
+    height: 2px;
+    background-color: rgb(58, 48, 2);
+  }
+}
+
+@media (min-width: 1025px) {
+  .whole {
+    /* margin-left: 33%;
+    margin-right: 33%;
+    padding-bottom: 3%; */
+    display: flex;
+    /* place-items: center; */
+    /* margin-top: 100px; */
+  }
+
+  .qubi {
+    background-color: rgb(193, 154, 107);
+    /* margin-left: 50%; */
+    /* margin-left: 30%; */
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+    margin: auto;
+    margin-top: 90px;
+    /* border-radius: 35px; */
+    /* margin: 30px;
+    background-color: #ffffff; */
+    border: 1px solid black;
+    opacity: 0.8;
+    font-size: x-large;
+  }
+
+  .header {
+    text-align: center;
+    font-family: "Charm", cursive;
+  }
+
+  .common {
+    padding-bottom: 5%;
+    padding-left: 5px;
+  }
+
+  .label {
+    font-family: "Rubik", sans-serif;
+    color: white;
+    padding: 10px;
+    padding-right: 10px;
+  }
+
+  .submit {
+    font-family: "Balsamiq Sans", cursive;
+    margin-left: 35%;
+    margin-top: 10%;
+    color: goldenrod;
+    background-color: #7a4f38;
+    height: 40px;
+    width: 120px;
+    font-size: x-large;
+    opacity: 1;
+  }
+
+  .input {
+    font-family: "Kalam", cursive;
+    margin-left: 5px;
+    /* position: absolute; */
+    height: 20px;
+    width: 35%;
+  }
+
+  .error {
+    color: red;
+    font-size: small;
+    text-align: center;
+  }
+
+  hr {
+    height: 2px;
+    background-color: rgb(58, 48, 2);
+  }
+
+  .seperator {
+    width: 40%;
+    display: inline-block;
+  }
+
+  .left {
+    float: left;
+  }
+  .right {
+    float: right;
+  }
+}
+@media (max-width: 480px) {
+  body {
+    background-image: url(../image/background.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120vh;
+  }
+}
+@media (min-width: 481px) and (max-width: 1024px) {
+  body {
+    background-image: url(../image/background.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+}
+
+@media (min-width: 1025px) {
+  body {
+    background-image: url(../image/background.jpeg);
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
+  }
+}
